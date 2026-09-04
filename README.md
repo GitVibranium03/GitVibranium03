@@ -45,11 +45,11 @@ web applications and learning new technologies and solving programming problems.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitVibranium03&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=GitVibranium03&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitVibranium03&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=GitVibranium03" />
 </p>
 
 ---
