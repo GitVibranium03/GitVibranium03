@@ -45,11 +45,21 @@ web applications and learning new technologies and solving programming problems.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitVibranium03&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitVibranium03&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github-profile-summary-cards.vercel.app/">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitVibranium03&theme=react" />
+  </a>
+
+  <br>
+
+  <a href="https://github-profile-summary-cards.vercel.app/">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitVibranium03&theme=react" />
+  </a>
+
+  <a href="https://github-profile-summary-cards.vercel.app/">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GitVibranium03&theme=react" />
+  </a>
+
 </p>
 
 ---
