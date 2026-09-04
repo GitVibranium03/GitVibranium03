@@ -6,8 +6,10 @@ Full Stack Developer | Java Developer | DSA Explorer
 
 <p align="center">
 I am a Computer Engineering student passionate about building
-web applications and learning new technologies.
+web applications and learning new technologies and solving programming problems.
 </p>
+
+---
 
 ## 🚀 About Me
 
@@ -17,6 +19,9 @@ web applications and learning new technologies.
 - 🧠 Practicing Data Structures and Algorithms
 - 🗄️ Learning SQL and Database Management
 - 🔥 Building projects to improve my development skills
+
+---
+
 ## 🛠️ Languages and Tools
 
 <p align="left">
@@ -35,6 +40,8 @@ web applications and learning new technologies.
 
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -44,6 +51,8 @@ web applications and learning new technologies.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitVibranium03&layout=compact&theme=tokyonight" />
 </p>
+
+---
 
 ## 🔥 GitHub Streak
 
@@ -61,6 +70,8 @@ web applications and learning new technologies.
   <img src="https://leetcard.jacoblin.cool/VSsable?theme=dark" />
 </p>
 
+---
+
 ## 🚀 My Projects
 
 ### 
@@ -71,11 +82,13 @@ web applications and learning new technologies.
 
 ###
 
+---
+
 ## 🤝 Connect With Me
 
 <p align="left">
 
-<a href="https://github.com/GtiVibranium03">
+<a href="https://github.com/GitVibranium03">
 GitHub
 </a>
 
