@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-stats-github.pages.dev/api/typing?lines=Hi%2C%20I'm%20Vinayak%20Sable%20%F0%9F%91%8B;Java%20Developer%20%7C%20Full%20Stack%20Learner;DSA%20Explorer%20%7C%20Problem%20Solver&theme=shadow&color=%233b82f6&particleColor=%23ffffff&background=%230d1117" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&height=60&lines=Hi%2C+I'm+Vinayak+Sable+%F0%9F%91%8B;Java+Developer+%7C+Full+Stack+Learner;DSA+Explorer+%7C+Problem+Solver" />
 </p>  
 
 <p align="center">
