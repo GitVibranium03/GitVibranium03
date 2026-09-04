@@ -1,10 +1,14 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&height=60&lines=Hi%2C+I'm+Vinayak+Sable+%F0%9F%91%8B;Java+Developer+%7C+Full+Stack+Learner;DSA+Explorer+%7C+Problem+Solver" />
-</p>  
+<h1 align="center">
+  Hi, I'm Vinayak Yashwant Sable
+</h1>
 
 <p align="center">
-I am a Computer Engineering student passionate about building
-web applications and learning new technologies and solving programming problems.
+  <img src="https://readme-stats-github.pages.dev/api/typing?lines=Java%20Developer%20%7C%20Full%20Stack%20Learner;DSA%20Explorer%20%7C%20Problem%20Solver&theme=shadow&color=%233b82f6&particleColor=%23ffffff&background=%230d1117" />
+</p>
+
+<p align="center">
+  Computer Engineering student passionate about building web applications,
+  learning new technologies, and solving programming problems.
 </p>
 
 ---
@@ -44,19 +48,13 @@ web applications and learning new technologies and solving programming problems.
 
 <p align="center">
 
-  <a href="https://github-profile-summary-cards.vercel.app/">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitVibranium03&theme=react" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitVibranium03&theme=react" />
 
   <br>
 
-  <a href="https://github-profile-summary-cards.vercel.app/">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitVibranium03&theme=react" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitVibranium03&theme=react" />
 
-  <a href="https://github-profile-summary-cards.vercel.app/">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GitVibranium03&theme=react" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GitVibranium03&theme=react" />
 
 </p>
 
@@ -65,45 +63,49 @@ web applications and learning new technologies and solving programming problems.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GitVibranium03&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=GitVibranium03&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GitVibranium03&theme=tokyo-night)
+---
 
 ## 🧩 LeetCode
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://leetcard.jacoblin.cool/VSsable?theme=dark" />
+</p>  -->
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/VSsable?theme=dark&font=Source%20Code%20Pro&ext=heatmap" />
 </p>
 
 ---
 
 ## 🚀 My Projects
 
-### 
+### 🔹 Project 1
+Coming soon...
 
-###
+### 🔹 Project 2
+Coming soon...
 
-###
-
-###
+### 🔹 Project 3
+Coming soon...
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/GitVibranium03">
-GitHub
+  <img src="https://img.shields.io/badge/GitHub-GitVibranium03-181717?style=for-the-badge&logo=github" />
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/vinayak-sable-ce">
-LinkedIn
+  <img src="https://img.shields.io/badge/LinkedIn-Vinayak%20Sable-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
+<a href="mailto:vinayaksable463@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Vinayak%20S-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
