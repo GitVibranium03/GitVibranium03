@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vinayak</h1>
-
-<h3 align="center">
-Full Stack Developer | Java Developer | DSA Explorer
-</h3>
+<p align="center">
+  <img src="https://readme-stats-github.pages.dev/api/typing?lines=Hi%2C%20I'm%20Vinayak%20Sable%20%F0%9F%91%8B;Java%20Developer%20%7C%20Full%20Stack%20Learner;DSA%20Explorer%20%7C%20Problem%20Solver&theme=shadow&color=%233b82f6&particleColor=%23ffffff&background=%230d1117" />
+</p>
 
 <p align="center">
 I am a Computer Engineering student passionate about building
